@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Single knob for line weight: stroke-width below.
+     3.3 units on a 50-unit canvas ≈ 1.45px at 22px render size.
+     Ring radius = 25 minus half the stroke-width keeps the outer edge
+     exactly on the canvas. color = currentColor inherits from the page. -->
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 50 50">
+  <g fill="none" stroke="currentColor" stroke-width="3.3">
+    <circle cx="25" cy="25" r="23.35"/>
+    <line x1="18.2" y1="10.6" x2="18.2" y2="22.9"/>
+    <line x1="31.4" y1="10.6" x2="31.4" y2="22.9"/>
+    <path d="M40.2 25a15.2 15.2 0 1 1 -30.4 0"/>
+  </g>
+</svg>
