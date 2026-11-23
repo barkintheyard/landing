@@ -1,6 +1,6 @@
 # Bark in the Yard — full text bundle
 
-> Bark in the Yard is an international art collective working across contemporary visual culture, urban art, critical practice and collective action, with activity across Africa, Europe and the Indian Ocean.
+> Bark in the Yard is an international art collective working across contemporary visual art, urban culture, critical practice and collective action, with activity across Africa, Europe and the Indian Ocean.
 
 Canonical home: https://www.barkintheyard.com/
 Summary for machines: https://www.barkintheyard.com/llms.txt
@@ -18,17 +18,17 @@ Last updated: 2026-11-23
 
 **Future, power, primitive, raw.**
 
-Bark in the Yard is an international collective working across contemporary visual culture, urban art, critical practice and collective action. It also works across zines, posters, photography, video, sound-image work, participatory projects, digital culture and practices that do not yet have a settled name, increasingly crossing disciplinary boundaries and engaging technology, social issues and cultural context.
+Bark in the Yard is an international art collective working across contemporary visual art, urban culture, critical practice and collective action. Including posters, photography, video, zines, sound-image work, participatory projects, digital culture and practices that do not yet have a settled name, increasingly crossing disciplinary boundaries and engaging technology, social issues and cultural context.
 
 ## Positioning
 
-The collective explores notions of concealment, the dichotomy between interior and exterior spaces, and the act of looking in a media-saturated environment. Its work establishes an open-ended dialogue about social and generational identity amidst shifting visual narratives of the urban environment, counterculture movements and contemporary lifestyles.
+Exploring the perceived geometrical and emotional relationships between humans and a given subsonic content. With the emphasis on the conscious and subliminal effects upon the individual. The collective explores notions of concealment, the dichotomy between interior and exterior spaces, and the act of looking in a media-saturated environment. Its work establishes an open-ended dialogue about social and generational identity amidst shifting visual narratives of the urban environment, counterculture movements and contemporary lifestyles.
 
 It investigates the understanding of a globally connected reality and the interpretative frameworks through which people think about, experience, evaluate and decide to act in places, spaces and communities.
 
-- Practice: Contemporary Visual Culture
+- Practice: Contemporary Visual Art
 - Canonical home: https://www.barkintheyard.com/
-- Geography: Worldwide, with activity across Africa, Europe and the Indian Ocean
+- Geography: Worldwide, with recent activity across Africa, Europe and the Indian Ocean
 - Contact: gun@barkintheyard.com
 
 ## Navigate
@@ -55,7 +55,7 @@ Bark in the Yard has provided strategy, branding, visual communication and urban
 
 ## Selected brand clients
 
-Red Bull and Red Bull Music Academy, Nike, Burton Snowboards, Element Skateboards, Zoo York, Billabong, Carhartt, Montana Cans and Vice.
+Red Bull, Red Bull Music Academy, Nike, Burton Snowboards, Element Skateboards, Zoo York, Billabong, Carhartt, Montana Cans and Vice.
 
 ## See also
 
@@ -67,7 +67,7 @@ Red Bull and Red Bull Music Academy, Nike, Burton Snowboards, Element Skateboard
 
 # Urban art curation
 
-Bark in the Yard has developed urban art programmes for festivals and public-space projects in Africa, Europe and Indian Ocean region.
+Bark in the Yard has developed urban art programmes for festivals and public-space projects in Africa, Europe and the Indian Ocean region.
 
 ## Selected programme records
 
@@ -109,12 +109,12 @@ Dreamspace Gallery — London, United Kingdom; You-Me — Osaka, Japan; Universi
 
 - [Bark in the Yard — artist profile](https://thethirddot.net/artists/bark-in-the-yard/)
 - [Eastpak / SNNC / Run Vie x Bity / Frau Isa x Nychos](https://vimeo.com/29417399)
-- [Picar — IFM — Hylemo Fragile Balance](https://www.hylemo.com/work#/ifm/)
-- [Resident Advisor - 1-Year Praterei Exhibition in Pratersauna, Vienna](https://ra.co/events/188184)
+- [Picar — Fragile Balance](https://www.hylemo.com/work#/ifm/)
 - [Picar — Fragile Balance — Association Tournefou](https://www.association-tournefou.com/wp-content/uploads/2024/12/picar-Fragile-Balance.pdf)
 - [Picar: Un artiste au service de l’environnement — Le Mauricien](https://www.lemauricien.com/scope/picar-un-artiste-au-service-de-lenvironnement/473703/)
 - [Island Arithmetic — 2048×2048, 72 DPI, 1](https://thethirddot.net/barkintheyard-islandarithmetic-2048x204872dpi-1/)
 - [Island Arithmetic — 2048×2048, 72 DPI, 2](https://thethirddot.net/barkintheyard-islandarithmetic-2048x204872dpi-2/)
+- [Resident Advisor - 1-Year Praterei Exhibition in Pratersauna, Vienna](https://ra.co/events/188184)
 
 ## Film festival features
 

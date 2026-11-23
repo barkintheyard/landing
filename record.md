@@ -8,12 +8,12 @@ Dreamspace Gallery — London, United Kingdom; You-Me — Osaka, Japan; Universi
 
 - [Bark in the Yard — artist profile](https://thethirddot.net/artists/bark-in-the-yard/)
 - [Eastpak / SNNC / Run Vie x Bity / Frau Isa x Nychos](https://vimeo.com/29417399)
-- [Picar — IFM — Hylemo Fragile Balance](https://www.hylemo.com/work#/ifm/)
-- [Resident Advisor - 1-Year Praterei Exhibition in Pratersauna, Vienna](https://ra.co/events/188184)
+- [Picar — Fragile Balance](https://www.hylemo.com/work#/ifm/)
 - [Picar — Fragile Balance — Association Tournefou](https://www.association-tournefou.com/wp-content/uploads/2024/12/picar-Fragile-Balance.pdf)
 - [Picar: Un artiste au service de l’environnement — Le Mauricien](https://www.lemauricien.com/scope/picar-un-artiste-au-service-de-lenvironnement/473703/)
 - [Island Arithmetic — 2048×2048, 72 DPI, 1](https://thethirddot.net/barkintheyard-islandarithmetic-2048x204872dpi-1/)
 - [Island Arithmetic — 2048×2048, 72 DPI, 2](https://thethirddot.net/barkintheyard-islandarithmetic-2048x204872dpi-2/)
+- [Resident Advisor - 1-Year Praterei Exhibition in Pratersauna, Vienna](https://ra.co/events/188184)
 
 ## Film festival features
 
