@@ -1,6 +1,6 @@
 # Urban art curation
 
-Bark in the Yard has developed urban art programmes for festivals and public-space projects in Europe, Sub-Saharan Africa and Indian Ocean region.
+Bark in the Yard has developed urban art programmes for festivals and public-space projects in Africa, Europe and Indian Ocean region.
 
 ## Selected programme records
 
