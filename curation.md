@@ -23,3 +23,7 @@ Bark in the Yard has developed urban art programmes for festivals and public-spa
 ## Curated mural artists
 
 Porlwi, 2015–2017: Gitahi Godfrey Kariuki (Kenya), Falk Land (Germany), Vincent Box (La Réunion), Joanna Lagesse (Mauritius), Daphne Doomun (Mauritius), RYMD (Mauritius), Armand Gachet (Mauritius), Brian Lamoureux (Mauritius), Resko (Mauritius), Emilie Bosquet (Mauritius), Dévid (Mauritius), Evan Sohun (Mauritius), Kicksoz (Mauritius), Milmvs (Mauritius), Chloe Ip (Mauritius), Gael Froget (Mauritius), Kid Kreol & Boogie (La Réunion), Gorg One (La Réunion), Tata Genial (La Réunion), Meo974 (La Réunion), Floe (La Réunion), Barlo (Italy), Andrea Wan (Canada), Frau Isa (Austria), Corinne Dalle-Ore (France), Seth (France), Bault (France), Wenna (China), The Ink & Clog (Singapore), Picar (Venezuela), 44Flavours (Germany) and Quintessenz (Germany).
+
+## See also
+
+- [Bark in the Yard — manifesto and profile](https://www.barkintheyard.com/index.md)

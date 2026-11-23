@@ -1,6 +1,6 @@
 # Bark in the Yard
 
-> Bark in the Yard is an international collective working across contemporary visual culture, urban art, critical practice and collective action.
+> Bark in the Yard is an international art collective working across contemporary visual culture, urban art, critical practice and collective action, with activity across Africa, Europe and the Indian Ocean.
 
 ## Identity
 
@@ -21,10 +21,12 @@ Working methods include urban art, photography, moving image, zines, posters, so
 - [Selected commissions and brand clients](https://www.barkintheyard.com/work.md): Commissioned work, festival clients and selected brand collaborations.
 - [Urban art curation](https://www.barkintheyard.com/curation.md): Curated street-art programmes, festival projects and supporting film records.
 - [Exhibitions, festivals and awards](https://www.barkintheyard.com/record.md): Selected presentation venues, film festivals and award recognitions.
+- [Full text bundle](https://www.barkintheyard.com/llms-full.txt): All of the above combined in one document.
+- [Sitemap](https://www.barkintheyard.com/sitemap.xml): Machine-readable list of all public pages.
 
 ## Optional
 
 - [Instagram](https://www.instagram.com/barkintheyard): Select photography works and public-space output.
 - [Threads](https://www.threads.com/@jurgenericakagun): Day-to-day notes and weekly publications from founding member Jurgen Eric aka Gun.
 
-Last updated: 2026-11-22
+Last updated: 2026-11-23

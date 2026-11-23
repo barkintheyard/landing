@@ -12,3 +12,7 @@ Bark in the Yard has provided strategy, branding, visual communication and urban
 ## Selected brand clients
 
 Red Bull and Red Bull Music Academy, Nike, Burton Snowboards, Element Skateboards, Zoo York, Billabong, Carhartt, Montana Cans and Vice.
+
+## See also
+
+- [Bark in the Yard — manifesto and profile](https://www.barkintheyard.com/index.md)

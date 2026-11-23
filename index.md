@@ -1,6 +1,6 @@
 # Bark in the Yard
 
-> Stuntwoodriders in motion. Artistic and autistic verbalists. All-condition eclectics. Advanced sociologic researchers. Allergic to the status quo. Sometimes we think. Sometimes we don't.
+> Stuntwoodriders in motion. Artistic and autistic verbalists. All condition eclectics. Advanced sociologic researchers. Allergic to the status quo and disposable antifuck. Sometimes we think. Sometimes we don't.
 
 **Future, power, primitive, raw.**
 
@@ -14,6 +14,7 @@ It investigates the understanding of a globally connected reality and the interp
 
 - Practice: Contemporary Visual Culture
 - Canonical home: https://www.barkintheyard.com/
+- Geography: Worldwide, with activity across Africa, Europe and the Indian Ocean
 - Contact: gun@barkintheyard.com
 
 ## Navigate

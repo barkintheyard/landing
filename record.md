@@ -27,3 +27,7 @@ Dreamspace Gallery — London, United Kingdom; You-Me — Osaka, Japan; Universi
 - 2016 · Nominated, Best Short Film — Africa in Motion Short Film Festival, United Kingdom
 - 2016 · Nominated, Best International Short Film — International Short Film Festival of Cyprus, Cyprus
 - 2016 · Official Selection, Avant-Garde Competition — Filmadrid Film Festival, Spain
+
+## See also
+
+- [Bark in the Yard — manifesto and profile](https://www.barkintheyard.com/index.md)

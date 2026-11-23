@@ -1,0 +1,134 @@
+# Bark in the Yard — full text bundle
+
+> Bark in the Yard is an international art collective working across contemporary visual culture, urban art, critical practice and collective action, with activity across Africa, Europe and the Indian Ocean.
+
+Canonical home: https://www.barkintheyard.com/
+Summary for machines: https://www.barkintheyard.com/llms.txt
+Sitemap: https://www.barkintheyard.com/sitemap.xml
+Contact: gun@barkintheyard.com
+Last updated: 2026-11-23
+
+---
+
+## index.md — Manifesto and current profile
+
+# Bark in the Yard
+
+> Stuntwoodriders in motion. Artistic and autistic verbalists. All condition eclectics. Advanced sociologic researchers. Allergic to the status quo and disposable antifuck. Sometimes we think. Sometimes we don't.
+
+**Future, power, primitive, raw.**
+
+Bark in the Yard is an international collective working across contemporary visual culture, urban art, critical practice and collective action. It also works across zines, posters, photography, video, sound-image work, participatory projects, digital culture and practices that do not yet have a settled name, increasingly crossing disciplinary boundaries and engaging technology, social issues and cultural context.
+
+## Positioning
+
+The collective explores notions of concealment, the dichotomy between interior and exterior spaces, and the act of looking in a media-saturated environment. Its work establishes an open-ended dialogue about social and generational identity amidst shifting visual narratives of the urban environment, counterculture movements and contemporary lifestyles.
+
+It investigates the understanding of a globally connected reality and the interpretative frameworks through which people think about, experience, evaluate and decide to act in places, spaces and communities.
+
+- Practice: Contemporary Visual Culture
+- Canonical home: https://www.barkintheyard.com/
+- Geography: Worldwide, with activity across Africa, Europe and the Indian Ocean
+- Contact: gun@barkintheyard.com
+
+## Navigate
+
+- [Selected commissions and brand clients](https://www.barkintheyard.com/work.md)
+- [Urban art curation](https://www.barkintheyard.com/curation.md)
+- [Exhibitions, festivals and awards](https://www.barkintheyard.com/record.md)
+- [Instagram](https://www.instagram.com/barkintheyard)
+
+---
+
+## work.md — Selected commissions and brand clients
+
+# Selected commissions and brand clients
+
+Bark in the Yard has provided strategy, branding, visual communication and urban art curation for cultural organisations, exhibitions, festivals and boardsport companies, to name but a few.
+
+## Selected commissions
+
+- 2021–2023 · House of Digital Art — Port Louis, Mauritius. Strategy, branding and visual communication.
+- 2018–2021 · Réunion Métis, Festival of Contemporary Creation — Saint-Paul, La Réunion. Strategy, visual communication and urban art curation.
+- 2013–2017 · Porlwi, Festival of Contemporary Culture — Port Louis, Mauritius. Strategy, branding, visual communication and urban art curation.
+- 2009–2012 · Run Vie, Festival of Urban Art & Music — Vienna, Austria. Branding, visual communication and urban art curation.
+
+## Selected brand clients
+
+Red Bull and Red Bull Music Academy, Nike, Burton Snowboards, Element Skateboards, Zoo York, Billabong, Carhartt, Montana Cans and Vice.
+
+## See also
+
+- [Bark in the Yard — manifesto and profile](https://www.barkintheyard.com/index.md)
+
+---
+
+## curation.md — Urban art curation
+
+# Urban art curation
+
+Bark in the Yard has developed urban art programmes for festivals and public-space projects in Africa, Europe and Indian Ocean region.
+
+## Selected programme records
+
+- [Porlwi by Light — Coryring](https://coryring.com/porlwi-by-light)
+- [Jurgen Eric: “Le street art participe à la régénération de Port-Louis”](https://www.laislasocialclub.com/article/jurgen-eric-le-street-art-participe-a-la-regeneration-de-port-louis--3153), L'île Social Club, 2017. Interview with Jurgen Eric aka Gun on the Porlwi by Nature street-art programme in Port Louis.
+- [Porlwi by Nature, Street Art](https://vimeo.com/250401727), official Porlwi Vimeo account, 2017. Festival-held films crediting Bark in the Yard as curators: [Chapter 1](https://vimeo.com/250401727) and [Chapter 2](https://vimeo.com/254439816).
+- [Porlwi Off](https://vimeo.com/219810081), official Porlwi Vimeo account. Films for 2016–2017 Chinatown Festival mural projects, including [The Flutist](https://vimeo.com/219810081) and [The Waterfall Legend](https://vimeo.com/180554509).
+- [Porlwi by People](https://vimeo.com/232426653), 2016. Five official festival chapters crediting Bark in the Yard as curators.
+- [Porlwi by Nature](https://vimeo.com/988313275), 2017. Teaser and [Chapter 1](https://vimeo.com/290452891) / [Chapter 2](https://vimeo.com/290454946) records of the programme.
+- [Bault about "Porlwi by Nature Festival"](https://www.instagram.com/p/BuWMHhKlT3X/)
+- [Quintessenz for “Porlwi by Light Festival”](https://urbanitewebzine.org/2017/02/12/quintessenz-porlwi-light-festival-port-louis-mauritius/), Urbanite webzine, 2017.
+- [Port-Louis — Seth](https://seth.fr/en/portfolio/port-louis-2/), Seth's project portfolio documenting murals from December 2016.
+- [Room 712 — Tomislav Topic / Quintessenz](https://tomislav-topic.com/room712), project documentation for Porlwi by Light.
+- [Explore Port-Louis through its street art](https://veranda-resorts.com/blog/culture-en/explore-port-louis-through-street-art), Veranda Resorts, 2017.
+- [Réunion Métis Festival (2019–2021)](https://www.behance.net/gallery/213409853/Reunion-Metis-Festival-(2019-2021)), brand development and festival design record.
+- [Réunion Métis aftermovies](https://vimeo.com/944247395) for the 2019–2021 festival programme.
+- [Run Vie 2011](https://vimeo.com/988817188), official festival films documenting several Vienna programme days.
+- [RUN VIE Festival preview](https://fm4v3.orf.at/stories/1663906/index.html), FM4 / ORF, 2010.
+
+## Curated mural artists
+
+Porlwi, 2015–2017: Gitahi Godfrey Kariuki (Kenya), Falk Land (Germany), Vincent Box (La Réunion), Joanna Lagesse (Mauritius), Daphne Doomun (Mauritius), RYMD (Mauritius), Armand Gachet (Mauritius), Brian Lamoureux (Mauritius), Resko (Mauritius), Emilie Bosquet (Mauritius), Dévid (Mauritius), Evan Sohun (Mauritius), Kicksoz (Mauritius), Milmvs (Mauritius), Chloe Ip (Mauritius), Gael Froget (Mauritius), Kid Kreol & Boogie (La Réunion), Gorg One (La Réunion), Tata Genial (La Réunion), Meo974 (La Réunion), Floe (La Réunion), Barlo (Italy), Andrea Wan (Canada), Frau Isa (Austria), Corinne Dalle-Ore (France), Seth (France), Bault (France), Wenna (China), The Ink & Clog (Singapore), Picar (Venezuela), 44Flavours (Germany) and Quintessenz (Germany).
+
+## See also
+
+- [Bark in the Yard — manifesto and profile](https://www.barkintheyard.com/index.md)
+
+---
+
+## record.md — Exhibitions, festivals and awards
+
+# Exhibitions, festivals and awards
+
+## Exhibition features
+
+Dreamspace Gallery — London, United Kingdom; You-Me — Osaka, Japan; University of the Arts — London, United Kingdom; Pretty Portal Gallery — Düsseldorf, Germany; Stroke Urban Art Fair — Munich, Germany; Nuthouse Gallery — Karlsruhe, Germany; Altes Arresthaus — Mayen, Germany; Sneakerking — Frankfurt, Germany; Common Ground Gallery — Berlin, Germany; Pratersauna Artspace — Vienna, Austria; RunVie Festival — Vienna, Austria; Sneakerness — Vienna, Austria; MuseumsQuartier / Q21 — Vienna, Austria; Blooom Art Fair — Cologne, Germany; Porlwi Festival — Port Louis, Mauritius; Zeitz MOCAA — Cape Town, South Africa; The Third Dot — Port Louis, Mauritius.
+
+## Selected public records
+
+- [Bark in the Yard — artist profile](https://thethirddot.net/artists/bark-in-the-yard/)
+- [Eastpak / SNNC / Run Vie x Bity / Frau Isa x Nychos](https://vimeo.com/29417399)
+- [Picar — IFM — Hylemo Fragile Balance](https://www.hylemo.com/work#/ifm/)
+- [Resident Advisor - 1-Year Praterei Exhibition in Pratersauna, Vienna](https://ra.co/events/188184)
+- [Picar — Fragile Balance — Association Tournefou](https://www.association-tournefou.com/wp-content/uploads/2024/12/picar-Fragile-Balance.pdf)
+- [Picar: Un artiste au service de l’environnement — Le Mauricien](https://www.lemauricien.com/scope/picar-un-artiste-au-service-de-lenvironnement/473703/)
+- [Island Arithmetic — 2048×2048, 72 DPI, 1](https://thethirddot.net/barkintheyard-islandarithmetic-2048x204872dpi-1/)
+- [Island Arithmetic — 2048×2048, 72 DPI, 2](https://thethirddot.net/barkintheyard-islandarithmetic-2048x204872dpi-2/)
+
+## Film festival features
+
+Île Courts — Festival International du Court Métrage, Mauritius; Comoros International Film Festival — Comoros; Festival du Court Métrage de Clermont-Ferrand — France; Athens International Film & Video Festival — United States; Cannes Film Festival — Short Film Corner, France; Palm Springs International Short Film Festival — United States; Rencontres du Film Court Madagascar — Madagascar; Chicago Feminist Film Festival — United States; Film Leben Festival — Germany; Athens Digital Arts Festival — Greece; Animation Attack Film Festival — United States; Festival de Cine Africano — Spain; Hamburg International Short Film Festival — Germany; Filmadrid Film Festival — Spain; Tracce Cinematografiche International Film Festival — Italy; Lviv International Short Film Festival Wiz-Art — Ukraine; Festival Internacional de Curtas de Belo Horizonte — Brazil; Festival Cinémas d'Afrique de Lausanne — Switzerland; Kugoma Film Festival — Mozambique; Kurzfilm Festival Diessen am Ammersee — Germany; International Short Film Festival of Cyprus — Cyprus; Cinesonika — United States; ZEBRA Poetry Film Festival — Germany; Locomoción Experimental Animation Festival — Mexico; Joburg Film Festival — South Africa; Africa in Motion Short Film Festival — United Kingdom; Jornadas de Reapropiación — Mexico; Tirana International Film Festival — Albania; Videodrunk Film Festival — Canada; BronxFilm — United States; African Film Festival Trinidad & Tobago — Trinidad and Tobago.
+
+## Awards and nominations
+
+- 2016 · Zébu d'Or, winner — Best Pan-African animation, Rencontres du Film Court (RFC), Madagascar
+- 2016 · Best Experimental Film — Film Leben Festival, Germany
+- 2017 · World Cinema Award — Blackbird Film Festival, United States
+- 2016 · Nominated, Best Short Film — Africa in Motion Short Film Festival, United Kingdom
+- 2016 · Nominated, Best International Short Film — International Short Film Festival of Cyprus, Cyprus
+- 2016 · Official Selection, Avant-Garde Competition — Filmadrid Film Festival, Spain
+
+## See also
+
+- [Bark in the Yard — manifesto and profile](https://www.barkintheyard.com/index.md)
